@@ -1,6 +1,6 @@
 {
-    "name": "support_notes",
-    "short_name": "support_notes",
+    "name": "support_actions",
+    "short_name": "support_actions",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
